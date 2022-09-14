@@ -1,0 +1,8 @@
+variables: es un palabra asignada en programacion que tiene como funcion declarar un palabra que va ser usada en las lineas de codigo
+strings: son variables de texto, caracteres.
+funciones (argumentos, 'return') son palabra asignadas en un lenguaje de programcion que permiten realizar una accion ya sea varias veces dentro de un programa o lineas de codigo.
+	argumentos son las variables que pueden ser usadas dentro de la funcion.
+	return es el valor que retornara cuando se ejecute la funcion
+declaraciones if este tipo de statement o sentencias significa si esto se cumple realiza una accion y retornar algo
+valores booleanos ('true','false'):son un tipo de variables que puede ser verdadero o falso.
+
