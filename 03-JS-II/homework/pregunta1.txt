@@ -1,0 +1,3 @@
+for: es una sentencia repetitiva que realiza una accion varias veces hasta que ya no se cumple una condicion o cuando sea false.
+&&: es el operador y o AND, ||: es el operador o u OR, !: es el operador de negacion o NOT.
+
