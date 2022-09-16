@@ -1,0 +1,3 @@
+arrays: tambien conocidos como vectores son listas que contienen elementos que pueden ser del mismo tipo de datos o diferentes: x ejemplo:
+var array=[1,2,4,'futbol',true,[10,11,12]]
+
