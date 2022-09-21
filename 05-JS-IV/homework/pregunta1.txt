@@ -1,0 +1,8 @@
+objetos:son una lista de propiedades de un objeto de la realidad. contiene propiedades y esta definido por clave(key) y valor(value). tambien contiene funciones que son los metodos.
+propiedades: son como las caracteristicas de un objeto y esta definidos por un key value o clave:valor.
+metodos: son las funciones que realiza los objetos, es como las acciones que puede realizarse en el objeto.
+bucle for in: es como el bucle for pero se aplica en un objeto ya que los objetos no contienen iteradores como el i en for.
+notacion de puntos: se usa para asignar el valor de una clave. esto se usa para cada propiedad o metodo del objeto.
+notacion de corchetes: se usa para colocar los elementos de un arreglo, o tambien para mostrar o asignar una propiedad de un objeto.
+
+
