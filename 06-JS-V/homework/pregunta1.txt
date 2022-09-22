@@ -1,0 +1,3 @@
+'prototype':es un metodo que realiza varios objetos para realizar una determinada funcion. esto permite no repetir un mismo metodo en varios objetos ahorrando memoria y lineas de programacion.
+_Constructors_ (de Clases):es una funcion que permite asignar propiedades a varios objetos creados, es como una plantilla de la cual se basa varios objetos que guardan caracteristicas o propiedades iguales.
+
