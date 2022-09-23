@@ -1,0 +1,2 @@
+funciones callbacks: son funciones que se pueden ejecutar dentro de otra funcion. esta es una habilidad de javascript, ya que hay otros lenguajes que no realizan esto.
+
