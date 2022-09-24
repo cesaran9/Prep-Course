@@ -11,7 +11,7 @@ I. Cree una página HTML básica.
   B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".
   C. En el cuerpo, crea tres divs.
     1. En el primer div crea:
-      * un elemento h1 que contiene [Tu nombre].
+      * un elemento h1 que contiene [Tu nombre].M
       * un elemento h3 que contiene "Henry".
       * un elemento h4 que contiene "tarea de HTML / CSS".
     2. En el segundo div crea:
